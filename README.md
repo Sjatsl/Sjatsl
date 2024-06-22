@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sjatsl
 - 👀 I've worked in sustainable development, community development, international development, intentional community housing, STEM and bioscience secondary and tertiary education, software development, renewable energy technology support and sales.
 - I'm a VIT registered secondary maths teacher.
-- 🌱 I’m learning guitar and German.
+- 🌱 I’m learning guitar (can lead a few kirtan bhajans) and German.
+- I'm a passionate practioner of conscious dance (5Rhythms,Open Floor) and Contact Improvisation.
 - He trabajado en países hispanohablantes con ONGs en papeles de administración y desarrollo exclusivamente en castellano.
 - 🕉️ I've recently learned to do nocode app development; I was commissioned to create an app (PMDD Treatment app) which is now on Apple Appstore and GooglePlay app store. 
 - 💞️ I’m an exopedian Wikipedia editor, edited 2000+ articles (get in touch if you need a Wikipedia writer). 
