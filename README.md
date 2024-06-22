@@ -5,13 +5,9 @@
 - He trabajado en países hispanohablantes con ONGs en papeles de administración y desarrollo exclusivamente en castellano.
 - 🕉️ I've recently learned to do nocode app development; I was commissioned to create an app (PMDD Treatment app) which is now on Apple Appstore and GooglePlay app store. 
 - 💞️ I’m an exopedian Wikipedia editor, edited 2000+ articles (get in touch if you need a Wikipedia writer). 
-- 📫 How to reach me? - here? 
-
-<a href=
-https://drive.google.com/drive/folders/0BweXWrS2jMWvTXpram90Qmt0U00?resourcekey=0-aqXGYOKyBrVXcLBiLRQ91g
->
-https://drive.google.com/drive/folders/0BweXWrS2jMWvTXpram90Qmt0U00?resourcekey=0-aqXGYOKyBrVXcLBiLRQ91g
-</a>
+- 📫 How to reach me? - here?
+- https://m.me/TillerAdam
+https://sites.google.com/site/sjatsl
 <!---
 Sjatsl/Sjatsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
